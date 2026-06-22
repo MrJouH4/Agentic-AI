@@ -16,5 +16,8 @@ dependencies = [
     "langchain-chroma",
     "langchain-huggingface",
     "chromadb",
-    "streamlit"
+    "streamlit",
+    "langchain-community",
+    "pypdf",
+    "sentence-transformers"
 ]
