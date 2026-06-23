@@ -1,6 +1,4 @@
-# Agentic AI Crash Course
-
-Welcome to the Agentic AI Crash Course. This tutorial folder contains resources and examples to help you learn the basics of building agentic AI systems.
+# Agentic AI Learning
 
 ## Contents
 
@@ -15,8 +13,8 @@ Welcome to the Agentic AI Crash Course. This tutorial folder contains resources 
 | `7_multimodal` | Multimodal (vision + text) agents |
 | `8_guardrails` | Safety and guardrails |
 | `9_eval` | Agent evaluation |
-| `10_project_shopping_agent` | Project: Shopping agent |
-| `11_project_telecom_chatbot` | Project: Telecom RAG chatbot |
+| `project_shopping_agent` | Project: Shopping agent |
+| `project_telecom_chatbot` | Project: Telecom RAG chatbot |
 
 ## Setup
 
@@ -83,12 +81,6 @@ Or run Streamlit apps (where applicable):
 ```bash
 streamlit run <folder>/app.py
 ```
-
-## Getting Started
-
-1. Start with `1_simple_llm_calling` to verify your setup.
-2. Work through the numbered folders in order.
-3. Explore the project folders (`10_*`, `11_*`) to see complete end-to-end examples.
 
 ## Notes
 
